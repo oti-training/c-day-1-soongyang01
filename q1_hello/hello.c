@@ -12,6 +12,7 @@
 
 int main(void) {
     // TODO: Add your printf statements here
+    printf("Hello Validation World\n");
 
     return 0;
 }
